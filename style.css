@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(#9dcc98,#141360);
+    background-size: cover;
+    background-repeat: no-repeat;
+   height: 400px;
+    padding-top: 200px;
+}
+.headng{
+  align-items: center;  
+   text-align: center;
+   flex-wrap: wrap;
+   display: flex;
+   justify-content: center;
+   font-size: 30px;
+ 
+}
+.bt{
+    align-items: center;  
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   
+
+
+}
+
+button:hover{
+    background-color: #D060FA;
+    cursor: pointer;
+    border-radius: 10px ;
+    
+}
+h1{
+    
+    font-family: 'Times New Roman', Times, serif;
+    color:#07E3FD;
+    background-color: seashell;
+    border-radius: 5px;
+    padding: 0px 10px 0px 10px;
+}
+button{
+    font-size: 32px;
+    margin: 10px;
+    border-radius: 5px ;
+    background-color: white;
+    
+}
